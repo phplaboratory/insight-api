@@ -62,7 +62,7 @@
   "dependencies": {
     "async": "*",
     "bitcore": "git+https://git@github.com/phplaboratory/bitcore.git#b61af62f903e90cd1b0341715801edda32847bfa",
-    "bitcore-message": "^0.12.0",
+    "bitcore-message": "git+https://git@github.com:phplaboratory/psiacore-message.git",
     "lodash": "^2.4.1",
     "request": "^2.64.0"
   },
